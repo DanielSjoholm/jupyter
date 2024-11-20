@@ -1,0 +1,13 @@
+Month,Region,Sales
+January,Norr,12000
+January,Syd,15000
+January,Öst,8000
+January,Väst,10000
+February,Norr,13000
+February,Syd,16000
+February,Öst,9000
+February,Väst,11000
+March,Norr,14000
+March,Syd,17000
+March,Öst,9500
+March,Väst,12000

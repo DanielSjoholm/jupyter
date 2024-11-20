@@ -1,0 +1,1 @@
+This is a sample text. It contains several words. Some words appear more frequently than others. Text analysis is a fundamental method to understand patterns in text.

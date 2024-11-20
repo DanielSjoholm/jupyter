@@ -1,0 +1,6 @@
+Name,Score
+Alice,75
+Bob,82
+Charlie,68
+Diana,90
+Eve,88
