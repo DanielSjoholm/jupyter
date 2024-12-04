@@ -1,0 +1,4 @@
+Step 1 Instructions:
+1. Open the Jupyter Notebooks.
+2. Follow the exercises to explore and clean the data, and train a simple model.
+3. Use the 'iris.csv' file for the exercises.

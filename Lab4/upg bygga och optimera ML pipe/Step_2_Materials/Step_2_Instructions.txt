@@ -1,0 +1,4 @@
+Step 2 Instructions:
+1. Open the Jupyter Notebooks.
+2. Build and optimize ML pipelines using the provided scripts.
+3. No external files are required for this step.
